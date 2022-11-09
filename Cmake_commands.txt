@@ -6,7 +6,7 @@ Commands:
 
 
 glob vs list source files:
-	Its best to explicitly list your files because the build system cannot know when to ask CMake to regenerate. 
+	It's best to explicitly list your files because the build system cannot know when to ask CMake to regenerate. 
 	https://cmake.org/cmake/help/latest/command/file.html?highlight=glob#glob
 
 
