@@ -1,0 +1,14 @@
+Commands:
+	cmake -S . -B /build/   			[source and build folders explicitly stated]
+	cmake -G "Unix Makefiles" <path>	[specify what GENERATOR to use]
+	cmake --build . 					[unified BUILD command]
+
+
+
+glob vs list source files:
+	Its best to explicitly list your files because the build system cannot know when to ask CMake to regenerate. 
+	https://cmake.org/cmake/help/latest/command/file.html?highlight=glob#glob
+
+
+sources:
+	https://www.youtube.com/watch?v=0ODEuQwF878&list=PLQMs5svASiXOraccrnEbkd_kVHbAdC2mp&index=4

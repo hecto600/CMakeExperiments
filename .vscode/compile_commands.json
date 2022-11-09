@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/raijin/Documents/Code/Cpp/test/build",
+  "command": "/usr/bin/c++  -I/home/raijin/Documents/Code/Cpp/test/source/include -std=gnu++23 -o CMakeFiles/main.dir/main.cpp.o -c /home/raijin/Documents/Code/Cpp/test/source/main.cpp",
+  "file": "/home/raijin/Documents/Code/Cpp/test/source/main.cpp"
+},
+{
+  "directory": "/home/raijin/Documents/Code/Cpp/test/build",
+  "command": "/usr/bin/c++  -I/home/raijin/Documents/Code/Cpp/test/source/include -std=gnu++23 -o CMakeFiles/main.dir/src/text.cpp.o -c /home/raijin/Documents/Code/Cpp/test/source/src/text.cpp",
+  "file": "/home/raijin/Documents/Code/Cpp/test/source/src/text.cpp"
+}
+]
